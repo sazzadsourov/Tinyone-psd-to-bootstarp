@@ -1,0 +1,140 @@
+/* common start */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: PTSans-Regular;
+  font-size: 16px;
+  font-weight: 400;
+  color: #010101;
+}
+@font-face {
+  font-family: PTSans-Regular;
+  src: url(../PT_Sans/PTSans-Regular.ttf);
+}
+@font-face {
+  font-family: PTSans-Bold;
+  src: url(../PT_Sans/PTSans-Bold.ttf);
+}
+/* common end */
+
+/* header start */
+header {
+  padding: 20px 0;
+  background-color: #fcdb00;
+}
+.c_nav {
+}
+.c_img {
+}
+.menu {
+}
+.menu ul li a {
+  font-size: 22px;
+  font-weight: 700;
+  color: #010101 !important;
+  padding: 0 55px !important;
+}
+.menu ul li a:hover {
+  color: white !important;
+}
+.menu ul li:last-child a {
+  padding-right: 0 !important;
+}
+/* header end */
+/* slider item start */
+.slider {
+  background-color: #fcdb00;
+  padding-bottom: 100px;
+}
+.cid {
+  bottom: -80px;
+}
+.cid [data-bs-target] {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: white;
+}
+.cid .active {
+  opacity: 1;
+}
+.s_text {
+  margin-top: 60px;
+}
+.s_text h1 {
+  margin-bottom: 15px;
+  font-size: 32px;
+  font-weight: 700;
+}
+.s_text h2 {
+  margin-bottom: 25px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #313841;
+}
+.s_text p {
+  margin-bottom: 35px;
+  color: #555555;
+}
+.f_icon {
+}
+.f_icon li {
+  margin-right: 30px !important;
+}
+.f_icon ul li i {
+  font-size: 42px;
+  transition: 0.3s;
+}
+.f_icon ul li i:hover {
+  transform: scale(0.8);
+}
+.s_img {
+}
+.s_img img {
+}
+/* slider item end */
+/* Features start */
+.features {
+  margin-top: 100px;
+  margin-bottom: 120px;
+}
+.c_title {
+}
+.c_h1 {
+  margin-bottom: 15px;
+  font-size: 32px;
+  font-weight: 700;
+}
+.c_text {
+  font-size: 20px;
+  color: #313841;
+  line-height: 25px;
+}
+.f_single {
+  margin-top: 60px;
+}
+.f_icon {
+  margin-top: 3px;
+}
+.f_icon i {
+  transition: 0.3s;
+  font-size: 50px;
+}
+.f_icon i:hover {
+  transform: scale(0.8);
+}
+.f_text {
+}
+.f_text h2 {
+  margin-bottom: 15px;
+  font-size: 22px;
+  font-weight: 400;
+}
+.f_text p {
+  margin-bottom: 0;
+  line-height: 20px;
+  letter-spacing: 1px;
+  color: #898989;
+  padding-right: 25px;
+}
+/* Features end */
