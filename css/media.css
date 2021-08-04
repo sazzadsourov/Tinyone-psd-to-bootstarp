@@ -54,6 +54,46 @@
     margin-bottom: 5px;
   }
   /* features end */
+  /* contact us start */
+  .contact {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+  .mtb_custom {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+  .c_mail {
+    height: 45px;
+  }
+  .btn_submit {
+    height: 45px;
+    font-size: 18px;
+    padding: 5px 10px;
+  }
+  .contact_icon ul li {
+    margin-right: 20px !important;
+  }
+  .contact_icon ul li a {
+    width: 35px;
+    height: 35px;
+  }
+  .contact_icon ul li i {
+    font-size: 35px;
+  }
+  /* footer start */
+  footer {
+    padding-bottom: 35px;
+  }
+  .f_1 {
+    text-align: center;
+    margin-bottom: 35px;
+  }
+  .f_2 {
+    margin-bottom: 35px;
+    text-align: center;
+  }
+  /* footer end */
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -107,6 +147,45 @@
     margin-bottom: 5px;
   }
   /* features end */
+  /* contact us start */
+  .contact {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+  .mtb_custom {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+  .c_mail {
+    height: 45px;
+  }
+  .btn_submit {
+    height: 45px;
+    padding: 5px 10px;
+  }
+  .contact_icon ul li {
+    margin-right: 20px !important;
+  }
+  .contact_icon ul li a {
+    width: 35px;
+    height: 35px;
+  }
+  .contact_icon ul li i {
+    font-size: 35px;
+  }
+  /* contact us end */
+  /* footer start */
+  footer {
+    padding-bottom: 70px;
+  }
+  .f_1 {
+    text-align: center;
+    margin-bottom: 35px;
+  }
+  .f_2 {
+    text-align: center;
+  }
+  /* footer end */
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -131,6 +210,21 @@
     margin-top: 41px;
   }
   /* features end */
+  /* contact us start */
+  .contact {
+    padding-top: 80px;
+    padding-bottom: 100px;
+  }
+  .mtb_custom {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  /* contact us end */
+  /* footer start */
+  footer {
+    padding-bottom: 100px;
+  }
+  /* footer end */
 }
 
 /* Large devices (desktops, 992px and up) */
